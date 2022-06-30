@@ -17,4 +17,7 @@ layout: default
 ### NatchCMS
 [klik hier](/natchCMS)
 
+### Blog
+[klik hier](/_posts)
+
 
